@@ -1,4 +1,4 @@
-Facebook-Connect
+Facebook-Connect For Kohana 3
 ================
 
 Just a normal Facebook connect library
